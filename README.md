@@ -1,4 +1,7 @@
-﻿# Literalura_Java
+   <p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+ # Literalura_Java
 Este proyecto permite al usuario buscar libros utilizando la API Gutendex y guardar los resultados en una base de datos de PostgreSQL.
 
 Características ✨
